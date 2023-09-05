@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bradunaway
-- 👀 I’m interested in AI, Machine Learning, and Modeling/Simulation
+- 👀 I’m interested in data science and full stack web development
 - 📫 How to reach me: bradunaway@gmail.com
 
 <!---
